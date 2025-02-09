@@ -1,13 +1,3 @@
---[[
--------------------------------------------------------------------
-
-Created by: @V3N0M_Z
-Reference: https://v3n0m-z.github.io/RBLX-SimplePath/
-License: MIT
-
----------------------------------------------------------------------
-]]
-
 local DEFAULT_SETTINGS = {
 
 	TIME_VARIANCE = 0.07;
